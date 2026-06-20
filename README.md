@@ -19,4 +19,4 @@ Projekt przedstawia internetowe zoo zawierające opisy zwierząt.
 
 ## Autor
 
-Ivan Tan
+Ivan Znak
